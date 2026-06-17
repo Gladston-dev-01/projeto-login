@@ -16,7 +16,7 @@ Este projeto consiste em uma interface de autenticação (Tela de Login) moderna
 ## 🔗 Veja o Projeto Funcionando:
 
 Você pode testar a interface de login rodando direto no seu navegador através do link abaixo:
-👉 [Ver Tela de Login Online](https://gladston-dev-01.github.io/Gladston-rep/projeto-login/)
+👉 [Ver Tela de Login Online](https://gladston-dev-01.github.io/projeto-login/)
 
 ---
 
